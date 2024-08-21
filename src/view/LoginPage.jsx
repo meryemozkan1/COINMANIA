@@ -29,7 +29,7 @@ const LoginPage = () => {
     <div>
       <div className="container">
         <div className="logo">
-          <img src="/public/c-logo.png" width={60} alt="" />
+          <img src="/c-logo.png" width={60} alt="" />
           <h2>Coinmania</h2>
         </div>
         {/* Form alanu */}

@@ -4,7 +4,7 @@ const HeaderView = () => {
   return (
     <header>
       <Link to={"/home"} className="h-logo">
-        <img src="/public/c-logo.png" alt="" />
+        <img src="/c-logo.png" alt="" />
         <h3 className="text-white">Coinmania</h3>
       </Link>
       <div className="buttons">
